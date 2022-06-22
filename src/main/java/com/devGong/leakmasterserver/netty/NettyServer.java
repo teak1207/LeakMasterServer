@@ -10,7 +10,7 @@ import java.net.InetSocketAddress;
 
 @Component
 public class NettyServer {
-
+//test
     @Autowired
     private ServerBootstrap serverBootstrap;
     @Autowired
